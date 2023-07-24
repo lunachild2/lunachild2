@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Welcome&fontSize=60&desc=SungYeon's%20Github%20Profile&descAlign=60&descSize=15)
 
 <!--
 **lunachild2/lunachild2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
