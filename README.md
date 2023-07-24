@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Welcome&fontSize=60&desc=SungYeon's%20Github%20Profile&descAlign=60&descSize=15)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Welcome&fontSize=80&fontAlignY=42&desc=SungYeon's%20Github%20Profile&descAlign=60&descSize=20&descAlignY=57)
 
 <br>
 
