@@ -21,11 +21,14 @@ gkgktjddus@gmail.com
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-</div>
 
----
+
+
+## My Github Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunachild2&show_icons=true&theme=radical)
+
+</div>
 <!--
 **lunachild2/lunachild2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
