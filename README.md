@@ -13,7 +13,9 @@ gg
 ```
 ## ✉️ Email ✉️
 
-gkgktjddus@gmail.com
+<a href="mailto:gkgktjddus@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+</a>
 
 ## 🔨Skills🔨
 
