@@ -1,9 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Welcome&fontSize=80&fontAlignY=42&desc=SungYeon's%20Github%20Profile&descAlign=60&descSize=20&descAlignY=57)
 
----
+
 
 <div align=center>
 💻Back-End Developer💻
+  <br>
   
 ```  
 gg
@@ -12,6 +13,10 @@ gg
 ✉️ Email ✉️
 
 gkgktjddus@gmail.com
+
+Skills
+
+<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=White"/>
 </div>
 
 ---
