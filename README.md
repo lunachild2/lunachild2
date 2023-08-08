@@ -3,8 +3,14 @@
 ---
 
 <div align=center>
-✉️ Email ✉️
+💻Back-End Developer💻
   
+```  
+gg
+
+```
+✉️ Email ✉️
+
 gkgktjddus@gmail.com
 </div>
 
