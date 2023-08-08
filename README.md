@@ -1,10 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Welcome&fontSize=80&fontAlignY=42&desc=SungYeon's%20Github%20Profile&descAlign=60&descSize=20&descAlignY=57)
 
-<br>
+---
 
+<div align=center>
+✉️ Email ✉️
+  
+gkgktjddus@gmail.com
+</div>
 
-
-<br>
+---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunachild2&show_icons=true&theme=radical)
 <!--
