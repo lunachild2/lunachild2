@@ -3,18 +3,19 @@
 
 
 <div align=center>
-💻Back-End Developer💻
+
+## 💻Back-End Developer💻
   <br>
   
 ```  
 gg
 
 ```
-✉️ Email ✉️
+## ✉️ Email ✉️
 
 gkgktjddus@gmail.com
 
-Skills
+## Skills
 
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=White"/>
 </div>
