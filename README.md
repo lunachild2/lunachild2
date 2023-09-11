@@ -2,15 +2,14 @@
 
 
 
-<div align=center>
+<div align=left>
 
 ## 💻Back-End Developer💻
   <br>
   
-```  
+
 gg
 
-```
 ## ✉️ Email ✉️
 
 <a href="mailto:gkgktjddus@gmail.com">
