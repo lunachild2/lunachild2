@@ -4,19 +4,19 @@
 
 <div align=left>
 
-## 💻Back-End Developer💻
+## 💻Back-End Developer
   <br>
   
 
 gg
 
-## ✉️ Email ✉️
+## ✉️ Email
 
 <a href="mailto:gkgktjddus@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
 </a>
 
-## 🔨Skills🔨
+## 🔨Skills
 
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=White"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
@@ -28,8 +28,11 @@ gg
 ## My Github Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunachild2&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunachild2&layout=compact)](https://github.com/lunachild2/github-readme-stats)
+
 
 </div>
+
 <!--
 **lunachild2/lunachild2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
