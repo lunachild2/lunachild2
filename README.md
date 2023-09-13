@@ -6,7 +6,10 @@
 
 ## Introduce
   
-  
+  Hello. I am SungYeon Kim :)   
+I am a developer who is interested in developing the Back end.
+
+
 
 
 <br>
